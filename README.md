@@ -18,7 +18,7 @@ Delivered a comprehensive and interactive Tableau report that illustrates the de
 
 2. Learned how to do some major analysis
 3. Learnt how to create interactive visuals
-5. Learned about some major analytical visuals and reports.
+5. Learnt some major analytical visuals and reports.
 # References
 I would like to thank ExcelR institute for providing this wonderful oppotunity of creating a Tableau dashboard as a part of the project
 
