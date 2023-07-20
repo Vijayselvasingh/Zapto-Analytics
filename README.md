@@ -4,7 +4,7 @@ Zapto is your next-door quick commerce app, delivering online groceries,fruits,v
 # Problem statement
 To create a dashboard in Tableau that showcases the demand level in each fulfillment center and provides a granular understanding of the performance of the center by including sales information. The client wants an end-to-end report to identify which fulfillment areas are performing well and which ones are not. This report can help company tracks core business KPIs(sales, revenue, profit, returns), compare regional performance, analyze product-level trends and forecast, and also identify high valued customers.
 # Approach
-Crafted interactive dashboard on 450k+ rows dataset across 15 fields using Tableau Desktop.
+Crafted interactive dashboard on 45k+ rows dataset across 15 fields using Tableau Desktop.
 # Outcome
 Delivered a comprehensive and interactive Tableau report that illustrates the demand level in each fulfillment center, offering a granular analysis of center performance through product information and center-meal combination insights. The report will empower informed decision-making by revealing strengths and weaknesses.
 
